@@ -1,3 +1,5 @@
-#To Start Project
+# To Start Project
 
+```
 $> run python grid.py
+```
